@@ -1,6 +1,11 @@
 HELLO
+<<<<<<< HEAD
 HAI
 devops
+=======
+hai
+DEVOPS
+>>>>>>> dev
 this is GIT class
 hello devops 
 this is practice class
